@@ -1,2 +1,2 @@
-The name of client is komu and age is 22, gender is female, residing at
-     abc, and more about him/her is good
+The name of client is  and age is , gender is , residing at
+     , and more about him/her is 
